@@ -1,0 +1,5 @@
+api_id = 26604188
+api_hash = "48abdff55e55852878a58e4f22eebd2a"
+
+BOT_TOKEN = "6953242862:AAE87yzL68h494fNO1gMTCuK2-U3P7uL5Gw"
+
